@@ -1,8 +1,8 @@
-# A Comparative Study of Regression Models for Assessing Clean Architecture in Python-based Projects
+# An Empirical Comparison of Regression Algorithms for Quantifying Clean Architecture in Python Codebases
 
 This repository contains the dataset, source code, and experimental results for the research paper titled:
 
-**"A Comparative Study of Regression Models for Assessing Clean Architecture in Python-based Projects"**  
+**"An Empirical Comparison of Regression Algorithms for Quantifying Clean Architecture in Python Codebases"**  
 Submitted to **ICISS 2025 ITB Bandung** and publicly available for transparency, reproducibility, and community collaboration.
 
 ## 📌 Overview
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 If you use this work in your own research, please cite it as:
 
-`Sandi Mulyadi. (2025). A Comparative Study of Regression Models for Assessing Clean Architecture in Python-based Projects. GitHub. https://github.com/sandiedu/paper-iciss-2025`
+`Sandi Mulyadi. (2025). An Empirical Comparison of Regression Algorithms for Quantifying Clean Architecture in Python Codebases. GitHub. https://github.com/sandiedu/paper-iciss-2025`
 
 ## 📬 Contact
 
